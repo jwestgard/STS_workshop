@@ -1,10 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
 <tei>
   <teiHeader>
     <fileDesc>
     </fileDesc>
   </teiHeader>
   <text>
-    <p>This is some text.</p>
-    <p>This is some more text.</p>
+    <p n='1'>
+      This is some text from an XML document.
+    </p>
+    <p n='2'>
+      This is <supplied>some</supplied> more text from that document.
+    </p>
   </text>
 </tei>
