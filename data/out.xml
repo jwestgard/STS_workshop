@@ -1,0 +1,10 @@
+<tei>
+  <teiHeader>
+    <fileDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <p>This is some text.</p>
+    <p>This is some more text.</p>
+  </text>
+</tei>
